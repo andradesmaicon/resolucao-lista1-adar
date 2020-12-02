@@ -1,7 +1,7 @@
 ################# script para a solução da questão 10 #########################
 
 #alterar diretório de trabalho
-setwd("/Doutorado/Disciplinas/Topicos1/entrega-atividades/resolucao-lista1-adar")
+setwd("/home/maicon/lista1-adar-maicon")
 getwd()
 
 #########################################################################
